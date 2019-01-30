@@ -1,0 +1,17 @@
+header {
+    background-color: #4aaaa5;
+}
+
+body {
+    color:#777777;
+}
+
+footer {
+    background-color:#666666
+}
+
+
+li {
+    display:inline;
+}
+
